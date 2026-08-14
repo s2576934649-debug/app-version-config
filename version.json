@@ -1,4 +1,5 @@
 {
   "iosVersion": "1.1.9",
-  "androidVersion": "1.1.8"
+  "androidVersion": "1.1.8",
+  "activity":true
 }
